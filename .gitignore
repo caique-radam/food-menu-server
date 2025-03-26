@@ -1,5 +1,6 @@
 # igonre node_modules
 \node_modules
 
+\dist
 # ignore only the .env  them keep .env-example
-.env
+\.env
